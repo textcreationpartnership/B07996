@@ -1,0 +1,668 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loues leprosie. The preface to the title ...</title>
+            <author>Powell, Thomas, 1572?-1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1598</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07996</idno>
+            <idno type="OCLC"> 76698563</idno>
+            <idno type="STC">STC 20166.5</idno>
+            <idno type="STC">ESTC S94769</idno>
+            <idno type="EEBO-CITATION">76698563</idno>
+            <idno type="OCLC">ocm 76698563</idno>
+            <idno type="VID">184272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184272)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 2247:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loues leprosie. The preface to the title ...</title>
+                  <author>Powell, Thomas, 1572?-1635?</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>by W. White, dwelling in Cow-lane.,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1598..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title within ornamental border; title ornament; initials.</note>
+                  <note>Dedication signed Tho. Povvell.</note>
+                  <note>Signatures: A-B⁴ C³.</note>
+                  <note>Reproduction of the original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184272:1"/>
+            <pb facs="tcp:184272:1"/>
+            <p>Loues Leproſie.</p>
+            <p>
+               <hi>The Preface to the Title.</hi>
+            </p>
+            <lg>
+               <l>The Leproſie yf Phiſicke bin approued,</l>
+               <l>
+                  <hi>Achilles</hi> cure, becauſe <hi>Achilles</hi> loued:</l>
+               <l>The Leproſie (ſaith <hi>Gordon</hi>) a diſeaſe,</l>
+               <l>Which on the child as yet vnborne doth ſeaſe,</l>
+               <l>Infectious and contagious, I could proue</l>
+               <l>It is incurable, and ſo is Loue.</l>
+               <l>Loues Leproſie according to her kinde,</l>
+               <l>Made him a Leaper in a Louers minde.</l>
+            </lg>
+            <p>Imprinted at London by <hi>W. White,</hi> dwelling in Cow-lane. 1598.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184272:2"/>
+            <pb facs="tcp:184272:2"/>
+            <head>To the right Honorable Sir Rebert Sydnie, Lord gouernour of Fluſhing, T. P. wiſheth all increaſe of <hi>Honour, with the continuance of his</hi> houſe in that floriſhing eſtate wherein it is now eſtabliſhed.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Knovv not (right Honorable) hovv to excuſe this inſinua<g ref="char:EOLhyphen"/>tion of mine, in committing this vnballaſt Barke to the maine of your protection, conſidering that euerie little Riuer hath vvater enough to beare it from the ground: yet if the Ozean rage not (as in diſdayne to ſupport ſo vveake a veſſell) I may accomplish the period of my deſires, and by this voiage learne to correct my Compaſſe; if othervviſe, this Barke conteyning all my fortunes, ſuffers vntimely ship<g ref="char:EOLhyphen"/>vvracke, and I banquerout of my infant hopes:
+<q>
+                  <l>At tua ſupplicibus domus eſt aſsueta iuuandis,</l>
+                  <l>In quorum numero me praecor eſse velis.</l>
+               </q>
+            </p>
+            <p>There is a Sea interuenting the Hauen <hi>Aulis</hi> of
+<pb facs="tcp:184272:3"/>
+               <hi>Beotia</hi> and <hi>Eubaea,</hi> called <hi>Euripus;</hi> vvhich flovves vvith ſuch violence, that it preuayles againſt the vvindes in maynteining full ſayles diſplayed <hi>exad<g ref="char:EOLhyphen"/>uerſo:</hi> The ſame Sea (right Honorable) a true <hi>Idaea,</hi> reſembles the Loue vvherevvith you imbrace the Muſes ſonnes in reſcuing from the <hi>Phocian Pyre<g ref="char:EOLhyphen"/>neus</hi> the <hi>Pyerian</hi> queriſters, vvhom headſtrongluſt ſeekes to dishonour; I preſent to your Lord<g ref="char:EOLhyphen"/>shyppe the luckleſſe loues of <hi>Achilles:</hi> vvhich if they may but gaine a grati<g ref="char:EOLhyphen"/>ous vievv in your iudiciall diſ<g ref="char:EOLhyphen"/>cretion, you shall buy my la<g ref="char:EOLhyphen"/>bours at a high rate, and I thinke my ſelfe there<g ref="char:EOLhyphen"/>vvith bountifully revvarded.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhippes officious in all dueties of humilitie,</hi> Tho. Povvell.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:184272:3"/>
+            <head>LECTORI.</head>
+            <l>Twas <hi>Dedalus</hi> that enuied at the Boy</l>
+            <l>Drencht in the Sea, for making of a toy:</l>
+            <l>Litle glory did he winne;</l>
+            <l>Enuie is a mickle ſinne.</l>
+            <l>Tis he, and none but he I feare,</l>
+            <l>Loath to buy my toy ſo deare.</l>
+            <l>When <hi>Apollo</hi> ſhineth bright,</l>
+            <l>Leſſer Starres ſhall looſe their light.</l>
+            <l>Wonder not when day is ended,</l>
+            <l>Though our glimmering be extended.</l>
+            <l>If I borrow from the Sunne,</l>
+            <l>And reſtore not, day once done.</l>
+            <l>May this Starre that's ſo impaled,</l>
+            <l>Like a Meteor be exhaled:</l>
+            <l>That with his prodigious breath,</l>
+            <l>Doth infect vnto the death.</l>
+            <l>Caſt me not headlong from <hi>Parnaſſus</hi> hill,</l>
+            <l>Although my worke be wanting to my will.</l>
+            <closer>
+               <signed>Gentle Reader yours to vſe, If propitiate with his muſe. <hi>T. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="1" facs="tcp:184272:4"/>
+            <head>IAMES HARMAN in commendations of <hi>the Author<g ref="char:punc">▪</g>
+               </hi>
+            </head>
+            <lg>
+               <l>I Can but muſe to ſee thy timerous Muſe,</l>
+               <l>Of Enuies hidden ſting to ſtand in awe:</l>
+               <l>What though th' Athinian Carpenter did bruſe</l>
+               <l>The forward youth, foyboaſting of his Saw:</l>
+               <l>Enuie will turne to Loue, and Loue to liking;</l>
+               <l>Such influence abideth in thy wryghting.</l>
+            </lg>
+            <lg>
+               <l>Let but the gentle Reader read thy yeares,</l>
+               <l>Thy Cygnet for a Swanne he will allow:</l>
+               <l>For by <hi>Achilles</hi> Loues it well appeares,</l>
+               <l>Thee with hir treaſure <hi>Pallas</hi> did indow.</l>
+               <l>Let this ſuffice for all, thou mayſt be bolde,</l>
+               <l>So young a head neare wrote a verſe ſo olde.</l>
+            </lg>
+            <q>
+               <l>Cum tonat ocyus Ilex.</l>
+               <l>Sulphure diſcuitur ſacroquam tu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> domuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184272:4"/>
+            <head>Loues Leprosie.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">T</seg>ROY</hi> loſt hir Souldier,</l>
+            <l>
+               <hi>Priam</hi> loſt a Sonne:</l>
+            <l>
+               <hi>Troyes</hi> hopes were paſt,</l>
+            <l>and <hi>Priams</hi> triumphes donne.</l>
+            <l>The <hi>Phrygian</hi> Dames,</l>
+            <l>thoſe ſad <hi>Illyades,</hi>
+            </l>
+            <l>Earth ſpherifying lyghtes,</l>
+            <l>heauens <hi>Pleiades,</hi>
+            </l>
+            <l>Do fret the pauement of his braſen Tombe</l>
+            <l>With teares, whoſe currants from their eylids runne:</l>
+            <l>With teares in ſtead of flowers they ſtrew the way,</l>
+            <l>Such ſollemne rites beſeeme ſo blacke a day.</l>
+            <l>With teares they waſh his woundes, and then againe</l>
+            <l>Lament with teares, their brother <hi>Hector</hi> ſlaine.</l>
+            <l>Euen at theſe exequies amongſt the reſt,</l>
+            <l>Was <hi>Peleus</hi> iſſue an vnwelcome gueſt.</l>
+            <l>He noates their ſorrow, and each ſeuerall pasſion,</l>
+            <l>Affrighting <hi>Nemeſis</hi> with inuocation.</l>
+            <l>
+               <hi>Polyxena</hi> ſendes foorth from trembling breſt,</l>
+            <l>Yee Gods in whom <hi>Troy</hi> holdes her intereſt.</l>
+            <l>Be iuſt vpon <hi>Achilles</hi> for this deede,</l>
+            <l>Who firſt begirt me with a mourning weede:</l>
+            <l>At this incenſt, to heare ſuch imprecation,</l>
+            <l>As to his owne ſoule had ſo neare relation.</l>
+            <l>His blood growes proud, and makes his brow the land</l>
+            <pb facs="tcp:184272:5"/>
+            <l>Which he try fallowes like caractered ſand.</l>
+            <l>Thus he replyes in language mixt with gall,</l>
+            <l>That but for honor of the capitall:</l>
+            <l>And of that truce whereto they were coniured,</l>
+            <l>By <hi>Hectors</hi> blood, which had the earth manured.</l>
+            <l>And all the ſoules which by vntimely fate,</l>
+            <l>His Sword had ſent to hell before their date.</l>
+            <l>That tongue from whom ſuch ranckor had his courſe,</l>
+            <l>Should begge for life, and yet finde no remorce:</l>
+            <l>But ſacrificious at her brothers ſhrine,</l>
+            <l>Beſprinkling it with blood, her ſoule refine.</l>
+            <l>Theſe wordes he vſed, and vſing them came neare,</l>
+            <l>So nigh that faire <hi>Polyxene</hi> did appeare:</l>
+            <l>Our <hi>Mermaidonian</hi> Captaine all amazed,</l>
+            <l>Stone ſtill he ſtandes, and ſtanding ſtill he gazed:</l>
+            <l>His eyes were dimde, the obiect was ſo bright;</l>
+            <l>Such is the force of Beautie, ſuch her might.</l>
+            <l>His hart an anuill to a tragicke theame,</l>
+            <l>Where death began to forge a ſtratageme</l>
+            <l>Will not endure while furie ſtrikes a heate:</l>
+            <l>But at the firſt allarums ſounds retreate.</l>
+            <l>His handes intended like that furious Knight,</l>
+            <l>Who thought the <hi>Graecian</hi> fleet might proue his right.</l>
+            <l>Or as him ſelfe, when as his ſecond ſelfe</l>
+            <l>Breathed foorth his ſoule, diuorſt from life and death.</l>
+            <l>Euen now as then for his <hi>Patroclus</hi> ſake:</l>
+            <l>Now did I ſay, euen now I miſtake,</l>
+            <l>O now they plead as Oracles of grace,</l>
+            <l>They menace none, for Loue hath changed the caſe.</l>
+            <l>A change to ſee his knee to offer duetie,</l>
+            <l>The foote whereof ſpurnes at all changing beautie.</l>
+            <pb facs="tcp:184272:5"/>
+            <l>
+               <hi>Achilles</hi> loues <hi>Polyxene:</hi> What is ſhee?</l>
+            <l>The lyuing daughter of his enemie.</l>
+            <l>How ſhall he woe her, that hath wed another?</l>
+            <l>How ſhall he winne her, that hath ſlaine her brother?</l>
+            <l>His <hi>Trophees</hi> and his triumphes ſhe doth hate.</l>
+            <l>In <hi>Hectors</hi> death his vallor liued too late.</l>
+            <l>Liue bleſt in this, that thou art <hi>Orpheus</hi> brother:</l>
+            <l>Hee none of thine, nor <hi>Thetis</hi> is his mother.</l>
+            <l>Hee in <hi>Caſtalian,</hi> therein didſt thou bath,</l>
+            <l>And thou in <hi>Stygian,</hi> ſo he neuer hath:</l>
+            <l>Minion to <hi>Mars,</hi> and Champion to the nine:</l>
+            <l>O that our age could elbow that of thine.</l>
+            <l>But widow ſhee hath loſt <hi>Achilles</hi> mate,</l>
+            <l>
+               <hi>SYDNEY</hi> whoſe breathing fame admits no date.</l>
+            <l>O but for him I neuer ſhould abyde,</l>
+            <l>But tell the <hi>Achademicks</hi> lowde he lyde,</l>
+            <l>Who mids thoſe holſome hearbes which he did che<g ref="char:EOLhyphen"/>riſh,</l>
+            <l>Suffered <hi>Metemſucoſin</hi> ſo to floriſh.</l>
+            <l>In him <hi>Achilles</hi> wandring ſoule did reſt,</l>
+            <l>Who like an Eagle could not buyld her neſt,</l>
+            <l>Till ſhe had found him out; but full of paine,</l>
+            <l>Seekes her <hi>Echytes</hi> els-where all in vaine.</l>
+            <l>With finding him, my Muſe hath loſt her ſelfe:</l>
+            <l>Come backe, for Natures banquer out of her wealth.</l>
+            <l>The <hi>Phaenix</hi> burnes, would teares might quench the flame:</l>
+            <l>
+               <hi>Andromache</hi> calls on dead <hi>Hectors</hi> name.</l>
+            <l>Though he be dead, his honors euer liue:</l>
+            <l>My infant Penne ſhall him his tribute giue.</l>
+            <l>And when this Cygnet hath a whiter hew,</l>
+            <l>Shee vowes to ſwimme, or ſinke, in open view.</l>
+            <l>
+               <hi>Achilles</hi> wooes her Loue, is full of woe,</l>
+            <pb facs="tcp:184272:6"/>
+            <l>
+               <hi>Polyxen</hi> yeeldes, but <hi>Hecuba</hi> ſayes noe.</l>
+            <l>Alas that Loue the ſonne, and Loue the mother,</l>
+            <l>By oppoſition ſhould aduerſe each other:</l>
+            <l>Shee doth accuſe him as degenerate,</l>
+            <l>Whoſe birth a Goddeſſe did contaminate:</l>
+            <l>Hee ſweares ſhee is vnkinde of woman kinde:</l>
+            <l>Predominance ſtuffes her ambitious minde.</l>
+            <l>Both ſtriue to ſoueraignize, both emulate,</l>
+            <l>Such ciuill warre the weale doth disſipate.</l>
+            <l>O I ſhould deeme them, but for their deſcents,</l>
+            <l>Two of the foure ſubſtantiall Elements.</l>
+            <l>Thoſe two I meane, whoſe contrarietie,</l>
+            <l>Seekes to expell by their aduerſitie.</l>
+            <l>Hence iſt <hi>Polyxen</hi> loues and loathes together,</l>
+            <l>Much like the Vaine thats guyded by the weather:</l>
+            <l>This is the influence of Loue the mother,</l>
+            <l>And Loue the ſonne, efficient of the other.</l>
+            <l>Once more, and reprehende not for digresſion:</l>
+            <l>A womans minde is fit for each impresſion:</l>
+            <l>
+               <hi>Hippocrates</hi> electuarie wyſe</l>
+            <l>Attributes it to weakneſſe in their eyes:</l>
+            <l>Induce mee to ſubſcribe he neuer can,</l>
+            <l>For euery female will outface a man,</l>
+            <l>And ſinke him in the center of her eye,</l>
+            <l>Drentcht with the ſourſes of immodeſtye.</l>
+            <l>Olde <hi>Hecuba,</hi> well learned in their ſex,</l>
+            <l>Inſtructes her daughter in this diueliſh text:</l>
+            <l>Hate occupie the center of thy hart,</l>
+            <l>Varniſh with Loue the ſuperficiall part,</l>
+            <l>That when <hi>Achilles</hi> hopes to croppe a flower,</l>
+            <l>The hidden Snake may haue him in her power.</l>
+            <pb facs="tcp:184272:6"/>
+            <l>The dryft is this, <hi>Achilles</hi> being ſlayne,</l>
+            <l>The Graecian <hi>Trophees</hi> will decline and wayne:</l>
+            <l>Loue him as Rangers vſe to loue their Deare,</l>
+            <l>That being fatt, they fall at time of yeere.</l>
+            <l>The <hi>Lecturis</hi> was diligent to reed,</l>
+            <l>The Pupill as attentiue giues good heed:</l>
+            <l>The Graecian at the firſt encounter faylde,</l>
+            <l>Albeit, his ſecond oraſons preuaylde.</l>
+            <l>Albeit, his ſecond oraſons preuaylde.</l>
+            <l>Maydes at the firſt, feare to be counted light,</l>
+            <l>And therefore vſe their Noe but as a ſlight:</l>
+            <l>Yet yf ſhe loue, preuenting Nay at thrice,</l>
+            <l>For feare ſhee looſe her pray, cryes Yea at twice.</l>
+            <l>
+               <hi>Egiptus</hi> Sonne whom <hi>Danaa</hi> takes to wyſe,</l>
+            <l>Feeles ere he ſees his throate to kiſſe the knyfe:</l>
+            <l>Euen ſo our Louer, fearing no infection,</l>
+            <l>Taſtes by the tongue, but tryes not by digeſtion.</l>
+            <l>And now he ſtrikes a higher noate in Loue,</l>
+            <l>Than earſt when baſer ſtringes did onely moue.</l>
+            <l>Am I Loues thrall (quoth he) and muſt I yeelde</l>
+            <l>To her, the honours which I wonne in feelde?</l>
+            <l>Loe <hi>Cytherea</hi> at thy ſacred ſhryne,</l>
+            <l>My conqueſtes I do willingly reſigne.</l>
+            <l>Where Loue's the goale, and Beautie giueth ayme,</l>
+            <l>Ile proue an Archer, though I looſe the gayme.</l>
+            <l>Some of my ſhaftes are ſpent, not will I ſpare,</l>
+            <l>But other ſhaftes ſhell proforate the ayre:</l>
+            <l>When all are gone, Heauens archar ſhall ſupplie,</l>
+            <l>By him Ile calculate Loues deſtenie.</l>
+            <l>Ioynd with the moſt propitiate of the ſeauen,</l>
+            <l>Dart foorth caeleſtiall influence from heauen.</l>
+            <l>For this dayes deede, O chide mee not to morrow,</l>
+            <pb facs="tcp:184272:7"/>
+            <l>Tis not of <hi>Maurus</hi> that I begge or borrow:</l>
+            <l>If I do ſo, let <hi>Euſeus</hi> looſe his right:</l>
+            <l>And yet tis farre to reach vnto the whight.</l>
+            <l>His heauie quiuer and my hart of lead,</l>
+            <l>Will make the craſie ſicke, the ſick-man dead.</l>
+            <l>The Deſtenies were neuer yet my Saintes.</l>
+            <l>At Fortunes ſhrine I breath not foorth my plaintes.</l>
+            <l>How much I ſcorne to borrow <hi>Maurus</hi> Bow,</l>
+            <l>Heauens conſtellations may confirme and ſhow:</l>
+            <l>I will commaund them all; yf they refuſe,</l>
+            <l>The pledge of Wiſedome ſhall be my excuſe,<note place="margin">ens inebi-Aſtris.</note>
+            </l>
+            <l>If <hi>Sagitarius</hi> throw me from a farre,</l>
+            <l>Foure ſpheres remote to <hi>Phaebus</hi> thirling carre,</l>
+            <l>And he ſuppoſe it be diſparagment,</l>
+            <l>To giue a heauen wrackt ſoule ſome intertainment,</l>
+            <l>Like to a fire Ile ſit vpon the maynes</l>
+            <l>Of his vnmanaged Iades, and burne their raynes</l>
+            <l>Then will I take my Goddeſſe by the hand,</l>
+            <l>Whoſe awfull Scepter guydeth <hi>Paphos</hi> land.</l>
+            <l>How I am wronged ſhee ſhall informe her Sonne,</l>
+            <l>And he ſhall helpe when all my hopes are done.</l>
+            <l>If <hi>Cupid</hi> fauour not, then will I prooue,</l>
+            <l>Apoſtata vnto the God of Loue.</l>
+            <l>Nay more, a Cynick like <hi>Diogenes,</hi>
+            </l>
+            <l>
+               <hi>Miſanthropos</hi> and a <hi>Miſogones:</hi>
+            </l>
+            <l>This reſolution did proceede from Loue,</l>
+            <l>In whoſe thought flying Orbe his ſoule did mooue:</l>
+            <l>The day he ſpendes in ſtudie how to gaine her,</l>
+            <l>His ſtudie nothing els but to obtaine her:</l>
+            <l>Obſeruing this a motiue in their kinde,</l>
+            <l>High prayſes humor beſt a womans minde.</l>
+            <pb facs="tcp:184272:7"/>
+            <l>And this mooues him to proue practitioner,</l>
+            <l>Solicite loue pleas <hi>Cupids</hi> barriſter.</l>
+            <l>
+               <hi>Polyxenes</hi> Poet in his Miſtres prayſe,</l>
+            <l>Thus gins to volley foorth his amorous layes<g ref="char:punc">▪</g>
+            </l>
+            <l>Thou wretchles Father of a wretched Sonne,</l>
+            <l>Sire to that diſmounted <hi>Phaeton:</hi>
+            </l>
+            <l>Giue raynes vnto thoſe fierie Steedes of thine,</l>
+            <l>That tread the path of the ſigniferous lyne.</l>
+            <l>Faire <hi>Sunne</hi> that ſeeſt each mothers Sonne on earth,</l>
+            <l>
+               <hi>Cynthius</hi> by loue, <hi>Latoides</hi> by thy birth:</l>
+            <l>Proude for the one, promoted for the other.</l>
+            <l>Vowde to thy Loue, deuoted to thy Mother.</l>
+            <l>Eye of all ſeeing-heauens, earthes lyfe, worldes light;</l>
+            <l>Whoſe preſence makes the day, and abſence night:</l>
+            <l>Performe the reuolution of ſwift time,</l>
+            <l>according to theſe faire demaundes of mine.</l>
+            <l>Poynt at that time, that wiſhed time, and ſay;</l>
+            <l>Loe this of many, a ſelected day:</l>
+            <l>Wherein thy Loue yeeldes her conſenting voyce,</l>
+            <l>Of thee (would God of mee) to make her choyce.</l>
+            <l>Knowſt thou Earth, animating lyght, my ſaint?</l>
+            <l>The fountaine of my griefe, and hartes complaint?</l>
+            <l>If not, attende the whilſt I ſhall thee ſhow,</l>
+            <l>How thou my Loue from others loues mayſt know</l>
+            <l>O ſhee is fayrer then the louely Boy,</l>
+            <l>Who by his death bereft <hi>Hyperions</hi> ioy.</l>
+            <l>Had this <hi>Diana</hi> naked in the Sring,</l>
+            <l>By any Forreſter bin euer ſeene,</l>
+            <l>He could not haue the power to runne away:</l>
+            <l>But there inchaunted, at the gaze to ſtay.</l>
+            <l>Nor neede ſhe call the Nimphes to reach her boe,</l>
+            <pb facs="tcp:184272:8"/>
+            <l>The fight had rauiſht and bewitcht him ſoe.</l>
+            <l>Her voyce the ground of winged <hi>Hermes</hi> ſweete,</l>
+            <l>Wherewith <hi>Lucinaes</hi> Watchman fell a ſleepe:</l>
+            <l>Her handes, yf <hi>Ioue</hi> perceiue they ſeeme to craue,</l>
+            <l>She need not ſpeake, <hi>Ioue</hi> graunts what ſhe would haue.</l>
+            <l>The margent is ſo fayre to gaze vpon,</l>
+            <l>That he ſhall ſurfet yf he gaze too long.</l>
+            <l>Her armes heauens continent, the way ſo bright,</l>
+            <l>Reflecting <hi>Cynthius</hi> rayes ſeemes lacteall whight.</l>
+            <l>Once more the more for to decipher her,</l>
+            <l>Shees like thy ſelfe, O none ſo like faire ſtarre.</l>
+            <l>The beautie thy disſheuered lockes contayne,</l>
+            <l>Doth in the tramels of her hayre remayne.</l>
+            <l>As wee eye thee (all obiectes ſet apart)</l>
+            <l>So ſhee hath power to draw both eyes and hart.</l>
+            <l>If any penne diſtinguiſh twixt the Gods</l>
+            <l>And fayre <hi>Polyxen,</hi> I allow him ods:</l>
+            <l>Mainteine, there is no difference but this;</l>
+            <l>That they in Heauen, ſhee on the Center is.</l>
+            <l>By him her prayſes haue eternitie,</l>
+            <l>And ſhee layes naked his mortallitie.</l>
+            <l>True Loue's a ſainct, ſo ſhall you true loue know:</l>
+            <l>Falſe Loue a <hi>Schythian,</hi> yet a ſainct in ſhow.</l>
+            <l>When many elegies of Loue were done,</l>
+            <l>
+               <hi>Polyxens</hi> hand, but not hart he wonne:</l>
+            <l>On this condition, that his Sword and Shield</l>
+            <l>Should neuer be aduanſt in <hi>Teucrian</hi> field:</l>
+            <l>And euery <hi>Mermaidon</hi> whom he controlde,</l>
+            <l>The ſame with him inuiolate to holde.</l>
+            <l>By this the dayes of truce did take an ende:</l>
+            <l>And heere begins the practize they intende<g ref="char:punc">▪</g>
+            </l>
+            <pb facs="tcp:184272:8"/>
+            <l>A ſecond leader to the forebred fight,</l>
+            <l>Was inſtigated <hi>Troilus</hi> behight:</l>
+            <l>He knowes <hi>Achilles</hi> ſleepes within his tent,</l>
+            <l>His loynes vngirded, and his Bowe vnbent.</l>
+            <l>He there the <hi>Troian</hi> gallant playes his prankes,</l>
+            <l>Paſſes confronted Pykes, and breakes their rankes.</l>
+            <l>The <hi>Graecians</hi> flye, their Captaynes being ſlayne,</l>
+            <l>Our younger Sonne to <hi>Mars</hi> purſues amayne:</l>
+            <l>Makes pauement of their Trunkes, and where he rides,</l>
+            <l>The hollow hoofe check quered in blood abides,</l>
+            <l>Leauing the print behinde, as who ſhould ſay,</l>
+            <l>Be witneſſe that the <hi>Troian</hi> rode this way:</l>
+            <l>
+               <hi>Achilles</hi> doth beholde by Loue reſtraynde.</l>
+            <l>He feares to be orebolde, but reſtes contaynde,</l>
+            <l>With execration that he did conſent,</l>
+            <l>By ſolempne oath vnto this darke intent,</l>
+            <l>Their inſtrumentes of Warre keepe tims accord,</l>
+            <l>The <hi>Spartan</hi> King, before <hi>Antenors</hi> Sword:</l>
+            <l>Flyes in ſuch danger of recouerie,</l>
+            <l>He wiſht nightes mantell were his ſanctuarie.</l>
+            <l>His Foe growes inſolent, made proude with pray,</l>
+            <l>And conqueſt muſt her vtmuſt duetie pay.</l>
+            <l>
+               <hi>Achilles</hi> is not tyde vnto the Maſt,</l>
+            <l>The <hi>Acheloydes</hi> ſinge, and he in haſt</l>
+            <l>Leapes from his Cabbin: O twere treble wrong</l>
+            <l>That he impatient ſhould abſtayne ſo long.</l>
+            <l>Well mounted &amp; well met, they ioyne togeather</l>
+            <l>Like Clowdes, whoſe ruſhing cauſe tempeſtuous wea<g ref="char:EOLhyphen"/>ther:</l>
+            <l>And now their clattering Shildes reſemble thunder.</l>
+            <l>The fire a lightning when the cloudes do ſunder,</l>
+            <l>Long did it thunder ere the heauens were bright,</l>
+            <pb facs="tcp:184272:9"/>
+            <l>So long that when it cleered, the day was night:</l>
+            <l>A night perpetuall vnto <hi>Priams</hi> ſonne;</l>
+            <l>His Horſe was ſlaine, the day was loſt &amp; won,</l>
+            <l>And heere each one might heare windes whiſpering ſound,</l>
+            <l>When earſt the Drums their ſenſes did confound</l>
+            <l>
+               <hi>Troilus</hi> dethes, chiefe conqueſt from the fielde,</l>
+            <l>Wrapt in their Colours, couered with his Shielde,</l>
+            <l>They carry him to make the number more,</l>
+            <l>Whoſe bleeding ſydes <hi>Achilles</hi> Speare did gore.</l>
+            <l>O had he not bin ouer inſolent,</l>
+            <l>
+               <hi>Achilles</hi> Speare had reſted in his Tent:</l>
+            <l>But his prouoking pride did ſeeme to braue</l>
+            <l>The braueſt Souldier in the ayre concaue.</l>
+            <l>This is the onely price that Vallour yeeldes,</l>
+            <l>Thy ſoule ſhall finde his reſt in <hi>Martiall</hi> fieldes.</l>
+            <l>The ſecond league for dayes they doe proclaime,</l>
+            <l>And now <hi>Achilles</hi> viſites his faire dame.</l>
+            <l>Ill fare that outward faire that's inward foule,</l>
+            <l>An Angels face wed to <hi>Proſerpines</hi> ſoule:</l>
+            <l>If Diuels in Dietie thus masked bin,</l>
+            <l>The man thats ſo bewitcht doth no whit ſin.</l>
+            <l>Thus pleades the ſubiect of my weeping Muſe,</l>
+            <l>Eor his fond Loues, alleadging this excuſe.</l>
+            <l>If hee complayne on Loue, ſhee heares his plaintes</l>
+            <l>With delinition, and becauſe he faintes,</l>
+            <l>Shee doth reuiue him, brooking no delay,</l>
+            <l>With as ſignation of a wedding day.</l>
+            <l>Foorthwith a marriage twixt them was concluded:</l>
+            <l>Alas that true Loue ſhould be ſo deluded.</l>
+            <l>The Sunne is roſe, ſees <hi>Thetis</hi> Sonne to fall,</l>
+            <l>Vnder this falſe pretended nuptiall.</l>
+            <pb facs="tcp:184272:9"/>
+            <l>The <hi>Delphick</hi> Oracle is now fulfilde,</l>
+            <l>Eare <hi>Troy</hi> be wonne, <hi>Achilles</hi> muſt be kilde.</l>
+            <l>This is the day wherein they ſurfet all,</l>
+            <l>With blood of his, who made the <hi>Troians</hi> thrall.</l>
+            <l>And this the day wherein he did appeaſe</l>
+            <l>Vnquiet ſoules, which earſt could finde no eaſe,</l>
+            <l>This day was nyght to him, and day to thoſe</l>
+            <l>By whom vntimely death did heere repoſe</l>
+            <l>His liues familliar Starre doth ſhoote and fall,</l>
+            <l>The faireſt Starre the heauens weare gracte withall.</l>
+            <l>Euen when his ſteppes ſalute the Temple porch</l>
+            <l>With Hymmes, and <hi>Hymenaeus</hi> burning torch,</l>
+            <l>A ſhaft from <hi>Paris</hi> hand did ſoone diſcloſe</l>
+            <l>Where <hi>Styx</hi> had kiſt him, and how high it roſe.</l>
+            <l>Where the <hi>Stygian</hi> flood did neuer reach,</l>
+            <l>Deathes winged meſſenger did make a breach:</l>
+            <l>Whence from each veine, the ſacred breath deſcending,</l>
+            <l>
+               <hi>Polyxens</hi> ioyes began, and his had ending.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:184272:10"/>
+            <head>Elaegia.</head>
+            <lg>
+               <l>OF all the Gods aboue,</l>
+               <l>I did honour Loue:</l>
+               <l>Loue his dietie.</l>
+               <l>Nothing might me mooue,</l>
+               <l>For I did approoue</l>
+               <l>Loue his pietie.</l>
+               <l>I did loue,</l>
+               <l>He did proue,</l>
+               <l>Nothing myght my Loue remoue.</l>
+               <l>He did proue,</l>
+               <l>I did loue:</l>
+               <l>Witneſſe this the Gods aboue.</l>
+            </lg>
+            <lg>
+               <l>He did not reſpect mee,</l>
+               <l>But he did reiect mee,</l>
+               <l>In his royaltie:</l>
+               <l>He did not affect mee,</l>
+               <l>But he did ſuſpect mee</l>
+               <l>Of diſloyaltie:</l>
+               <l>No reſpect</l>
+               <l>Did reiect</l>
+               <l>Mee in this his royaltie:</l>
+               <pb facs="tcp:184272:10"/>
+               <l>No affect</l>
+               <l>Did ſuſpect</l>
+               <l>Mee, for no diſloyaltie.</l>
+            </lg>
+            <lg>
+               <l>I the Fielde did leaue,</l>
+               <l>And mine Armes bequeath</l>
+               <l>To the Loue Qneene.</l>
+               <l>To my brow did cleaue</l>
+               <l>
+                  <hi>Venus</hi> Myrtill wreath:</l>
+               <l>There was loue ſeene.</l>
+               <l>I did leaue,</l>
+               <l>And bequeath,</l>
+               <l>Myne Armour for a Myrtill wreath:</l>
+               <l>Myrtle wreathe</l>
+               <l>Purchaſt leaue,</l>
+               <l>To my Temples faſt to cleaue,</l>
+            </lg>
+            <lg>
+               <l>The Body that was ſo blinde,</l>
+               <l>Showed himſelfe vnkinde</l>
+               <l>To mine amours:</l>
+               <l>Playning to the winde,</l>
+               <l>I no eaſe coulde finde</l>
+               <l>To my clamours.</l>
+               <l>He was blinde,</l>
+               <l>And vnkinde:</l>
+               <l>So vnconſtant was his minde,</l>
+               <l>As the winde,</l>
+               <l>So vnkinde:</l>
+               <l>Eaſe for Loue I could not finde.</l>
+            </lg>
+            <pb facs="tcp:184272:11"/>
+            <lg>
+               <l>Now I doe repent mee,</l>
+               <l>Now I do lament mee:</l>
+               <l>But alas too late.</l>
+               <l>Gentle hart relent thee,</l>
+               <l>Though thou muſt content thee</l>
+               <l>With thy froward fate.</l>
+               <l>Hart content thee,</l>
+               <l>Hart relent thee,</l>
+               <l>Since <hi>Polyxen</hi> was vntrue.</l>
+               <l>I lament mee,</l>
+               <l>And repent mee:</l>
+               <l>Loue and Women both adew.</l>
+            </lg>
+            <closer>
+               <signed>Tam veneri quam Marti, mortuus Achilles.</signed>
+            </closer>
+            <pb facs="tcp:184272:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
